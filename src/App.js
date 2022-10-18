@@ -1,10 +1,11 @@
 import React, { useEffect, useState} from "react";
 import tmdb from './tmdb';
+import './App.css';
 import MovieRow from "./components/MovieRow";
 
 export default () => {
 
-  const [movielist, setMovieList] = useState([]);
+  const [movieList, setMovieList] = useState([]);
 
   useEffect(() =>{
     const loadAll = async () => {
@@ -19,8 +20,8 @@ export default () => {
   return (
     <div className="page">
       <section className="lists">
-        {movielist.map((item, key)=>(
-          <MovieRow key={key} tittle={item.tittle} items={item.items} />
+        {movieList.map((item, key)=>(
+          <MovieRow key={key} title={item.title} items={item.items} />
         ))}
       </section>      
     </div>
