@@ -2,6 +2,7 @@ import React, { useEffect, useState} from "react";
 import tmdb from './tmdb';
 import './App.css';
 import MovieRow from "./components/MovieRow";
+import FeaturedMovie from "./components/FeaturedMovie";
 
 export default () => {
 
