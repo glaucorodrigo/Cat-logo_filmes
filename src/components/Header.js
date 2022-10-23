@@ -11,11 +11,6 @@ export default () => {
                     <img src={logo} alt="logo" />
                 </a>
             </div>
-            <nav>
-                <li>Filmes</li>
-                <li>Séries</li>
-                <li>Categorias</li>
-            </nav>
             <div className="header--user">
                 <a href="/">
                     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png" alt="Usuário" />
