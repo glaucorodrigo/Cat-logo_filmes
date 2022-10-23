@@ -4,6 +4,7 @@ import './App.css';
 import MovieRow from "./components/MovieRow";
 import FeaturedMovie from "./components/FeaturedMovie";
 import Header from "./components/Header";
+import rodape_linkedin from './components/imagens/linkedin_icone.png';
 
 export default () => {
 
@@ -41,7 +42,13 @@ export default () => {
         {movieList.map((item, key)=>(
           <MovieRow key={key} title={item.title} items={item.items} />
         ))}
-      </section>      
+      </section>   
+        <footer>
+        <p>Desenvolvido por Glauco Rodrigo</p>
+	      <a href="https://www.linkedin.com/in/glauco-rodrigo/" target="_blank"><img class="icone1" src={rodape_linkedin} /></a><br/>
+        Direitos de imagem para Netflix<br/>
+        Dados pegos do site Themoviedb.org
+        </footer>   
     </div>
   );
 }
