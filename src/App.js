@@ -47,7 +47,7 @@ export default () => {
         <p>Desenvolvido por Glauco Rodrigo</p>
 	      <a href="https://www.linkedin.com/in/glauco-rodrigo/" target="_blank"><img class="icone1" src={rodape_linkedin} /></a><br/>
         Direitos de imagem para Netflix<br/>
-        Dados pegos do site Themoviedb.org
+        Dados captados do site Themoviedb.org
         </footer>   
     </div>
   );
