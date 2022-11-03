@@ -1,5 +1,10 @@
 <h1> Catálogo de filmes</h1>
 
+
+
+Primeiro contato com o REACTJS, ferramenta muito boa para comportamentos diferenciados.
+Grande evolução com CSS e Javascript e entendimento das funcionalidades.
+
 <h2>Linguagens utilizadas:</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
