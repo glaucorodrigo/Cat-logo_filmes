@@ -16,7 +16,13 @@ Grande evolução com CSS e Javascript e entendimento das funcionalidades.
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Deploy:<br>
+<h1> API Utilizada:</h1>
+
+Utilizei o TMDB API para consumir as informações gerais dos filmes. <br>
+https://developers.themoviedb.org/3
+
+<h1>Deploy:</h1><br>
+
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) <br>
 https://movieflix-v1.netlify.app
 
