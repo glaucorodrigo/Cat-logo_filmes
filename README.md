@@ -5,8 +5,8 @@
 
 
 
-Primeiro contato com o REACTJS, ferramenta muito boa para comportamentos diferenciados.
-Grande evolução com CSS e Javascript e entendimento das funcionalidades.
+Primeiro contato com o REACTJS, essencial para alguns comportamentos do site.
+Busquei evolução com CSS e Javascript e entendimento das funcionalidades.
 
 <h2>Linguagens utilizadas:</h2>
 
