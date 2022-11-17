@@ -21,7 +21,7 @@ Busquei evolução com CSS e Javascript e entendimento das funcionalidades.
 
 <h1> API Utilizada:</h1>
 
-Utilizei o TMDB API para consumir as informações gerais dos filmes. <br>
+Utilizei o TMDB API para consumir as informações gerais dos filmes, como: Categorias, destaques, avaliação, sinopse e etc. <br>
 https://developers.themoviedb.org/3
 
 <h1>Deploy:</h1><br>
