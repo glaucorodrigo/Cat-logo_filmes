@@ -5,8 +5,9 @@
 
 
 
-Primeiro contato com o REACTJS, essencial para alguns comportamentos do site.
-Busquei evolução com CSS e Javascript e entendimento das funcionalidades.
+Primeiro contato com o REACTJS,Busquei evolução com CSS e Javascript e entendimento das funcionalidades.
+A aplicação tem como base comportamental o Netflix, onde através da API retorna pro usuário categorias, faixa etária e filmes em destaque.
+Função de deslizar pra direita ou para esquerda os filmes de cada categoria.
 
 <h2>Linguagens utilizadas:</h2>
 
